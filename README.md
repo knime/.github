@@ -1,2 +1,2 @@
 # .github
-Organization
+Organization Wide information
